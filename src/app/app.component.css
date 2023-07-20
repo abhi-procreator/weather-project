@@ -1,0 +1,83 @@
+.weather .row{
+    margin-top: 10px;
+}
+.card{
+    background-color: #f7f7f7;
+    height: 12rem;
+}
+.logo-image img{
+    width: 300px;
+    justify-content: center; 
+    margin-bottom: 2rem;
+}
+.logo-image{
+    justify-content: center;
+    margin-top: 2rem;
+}
+.text strong{
+    margin: 12px;
+    color: #2D2D2D;
+}
+.degree{
+    background-color:#6DD0A5;
+    border-radius: 50%;
+    height: 94px;
+    width: 96px;
+}
+.degree h3{
+    color: #FFF;
+    margin-left: 10px;
+    padding: 28px 0 0 24px
+    
+}
+.degree2{
+    background-color:#5448C8;
+    border-radius: 50%;
+    height: 94px;
+    width: 96px;
+}
+.degree2 h4{
+    color: #FFF;
+    margin-left: 10px;
+    padding:22px 0 0 9px;
+    
+}
+h5 span img{
+    width: 15px;
+    margin-right: 12px;
+}
+.col-md-6 h5 .bi-arrow-up{
+    color: #6DD0A5;
+}
+.col-md-6 h5 .bi-arrow-down{
+    color: #f5462f;
+}
+
+.play {
+    background-color: #6DD0A5;
+    color: #FFF;
+    padding: 3px;
+    border-radius: 7px;
+}
+.play strong{
+    padding: 8px;
+}
+.col-md-4 .play,.total{
+    margin-top: 24px;
+}
+/* .col-md-4 .total */
+.last .row{
+    padding-top: 20p;
+}
+.col-md-4 .last2{
+    padding: 32px;
+    color: #5448C8;
+}
+.col-md-4 .light{
+    color: #5448C8;
+}
+.col-md-6 .ten{
+    font-size: 18px;
+    color: #5448C8;
+}
+
